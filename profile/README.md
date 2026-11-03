@@ -8,10 +8,10 @@ Creemos que todo negocio tiene potencial para llegar más lejos. Nuestro trabajo
 
 ## Qué hacemos
 
-- **Diseño y creatividad** — Identidad visual, diseño y experiencias digitales.
-- **Tecnología** — Desarrollo web, software y soluciones digitales.
-- **Marketing y crecimiento** — Estrategia, comunicación y presencia digital.
-- **Soluciones para negocios** — Herramientas y servicios que facilitan su día a día.
+- **Diseño y creatividad** - Identidad visual, diseño y experiencias digitales.
+- **Tecnología** - Desarrollo web, software y soluciones digitales.
+- **Marketing y crecimiento** - Estrategia, comunicación y presencia digital.
+- **Soluciones para negocios** - Herramientas y servicios que facilitan su día a día.
 
 ## Nuestra visión
 
