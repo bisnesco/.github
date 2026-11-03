@@ -1,6 +1,6 @@
 # Bisnes.
 
-### Hacemos crecer negocios.
+### Tecnología que impulsa negocios.
 
 Somos Bisnes, una agencia que combina **estrategia, creatividad y tecnología** para ayudar a los negocios a crecer, evolucionar y alcanzar nuevas oportunidades.
 
