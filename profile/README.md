@@ -15,7 +15,7 @@ Creemos que todo negocio tiene potencial para llegar más lejos. Nuestro trabajo
 
 ## Nuestra visión
 
-Acercar herramientas, ideas y oportunidades a negocios de todos los tamaños, comenzando en Costa Rica.
+Acercar herramientas, ideas y oportunidades a negocios de todos los tamaños.
 
 ---
 
