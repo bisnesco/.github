@@ -8,10 +8,10 @@ We believe every business has the potential to go further. Our work is to help t
 
 ## What We Do
 
-- **Design & Creativity** — Visual identity, design, and digital experiences.
-- **Technology** — Web development, software, and digital solutions.
-- **Marketing & Growth** — Strategy, communication, and digital presence.
-- **Business Solutions** — Tools and services that make everyday operations easier.
+- **Design & Creativity** - Visual identity, design, and digital experiences.
+- **Technology** - Web development, software, and digital solutions.
+- **Marketing & Growth** - Strategy, communication, and digital presence.
+- **Business Solutions** - Tools and services that make everyday operations easier.
 
 ## Our Vision
 
