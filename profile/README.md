@@ -1,22 +1,22 @@
 # Bisnes.
 
-### Tecnología que impulsa negocios.
+### Technology that drives businesses forward.
 
-Somos Bisnes, una agencia que combina **estrategia, creatividad y tecnología** para ayudar a los negocios a crecer, evolucionar y alcanzar nuevas oportunidades.
+We are Bisnes, an agency that combines **strategy, creativity, and technology** to help businesses grow, evolve, and unlock new opportunities.
 
-Creemos que todo negocio tiene potencial para llegar más lejos. Nuestro trabajo es ayudar a convertir ese potencial en realidad.
+We believe every business has the potential to go further. Our work is to help turn that potential into reality.
 
-## Qué hacemos
+## What We Do
 
-- **Diseño y creatividad** - Identidad visual, diseño y experiencias digitales.
-- **Tecnología** - Desarrollo web, software y soluciones digitales.
-- **Marketing y crecimiento** - Estrategia, comunicación y presencia digital.
-- **Soluciones para negocios** - Herramientas y servicios que facilitan su día a día.
+- **Design & Creativity** — Visual identity, design, and digital experiences.
+- **Technology** — Web development, software, and digital solutions.
+- **Marketing & Growth** — Strategy, communication, and digital presence.
+- **Business Solutions** — Tools and services that make everyday operations easier.
 
-## Nuestra visión
+## Our Vision
 
-Acercar herramientas, ideas y oportunidades a negocios de todos los tamaños.
+Making tools, ideas, and opportunities accessible to businesses of all sizes.
 
 ---
 
-**Bisnes.** Hacemos crecer negocios.
+**Bisnes.** We grow businesses.
